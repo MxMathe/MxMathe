@@ -16,10 +16,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/9qpnbm"  />
-
-###
-
 ## Tecnoligias que eu uso
 
 ###
@@ -37,6 +33,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="python logo"  />
   <img width="12" />
+  <img align="right" height="150" src="https://gifdb.com/images/high/initial-d-takumi-fujiwara-seriously-driving-c3ouqnx05hlt0kz8.webp"  />
 
 
 

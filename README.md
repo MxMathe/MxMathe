@@ -3,8 +3,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://www.linkedin.com/in/matheus-dias-lopes-dev/" height="35" alt="linkedin logo"  />
+  <a href = "mailto:teusdias2002@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
+  <a href="https://www.linkedin.com/in/matheus-dias-lopes-dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" ></a>
+  <a href="https://www.instagram.com/matheusdl.9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="linkedin logo" ></a>
 </div>
 
 ###
@@ -16,7 +17,7 @@
 
 ###
 
-## Tecnoligias que eu uso
+## Tecnologias que eu uso
 
 ###
 
@@ -40,6 +41,6 @@
 
 <br clear="both">
 
-<img src="cobrinha" />
+
 
 ###

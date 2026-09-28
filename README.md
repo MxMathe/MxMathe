@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou Matheus Dias</h1>
 
 <h4>
-👨‍💻Sou Engenheiro da Computação e desenvolvedor. gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções eficientes para problemas.
+👨‍💻Sou Engenheiro da Computação e desenvolvedor, gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções eficientes para problemas.
 </h4>
 
 ● 🎓 Engenharia da Computação

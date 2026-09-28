@@ -1,5 +1,16 @@
 <h2 align="left">👨‍💻Matheus Dias</h2>
 
+
+● 🎓 Engenheiro da Computação
+  
+● 💻 Atualmente estudando cybersecurity
+
+● 🛠️ Procurando trabalhos
+
+● 📧 E-mail pessoal teusdias2002@gmail.com
+
+● 🚀 Em constante evolução na área de tecnologia
+
 ###
 
 <div align="left">
@@ -36,11 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="12" />
   <img align="right" height="150" src="https://gifdb.com/images/high/initial-d-takumi-fujiwara-seriously-driving-c3ouqnx05hlt0kz8.webp"  />
-
+</div>
 
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/MxMathe/MxMathe/output/snake.svg" alt="Snake animation" />
 
 ###

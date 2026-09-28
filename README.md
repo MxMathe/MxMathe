@@ -1,7 +1,10 @@
-<h2 align="left">👨‍💻Matheus Dias</h2>
+<h1 align="left">Olá, eu sou Matheus Dias</h1>
 
+<h4>
+👨‍💻Sou Engenheiro da Computação e desenvolvedor. gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções eficientes para problemas.
+</h4>
 
-● 🎓 Engenheiro da Computação
+● 🎓 Engenharia da Computação
   
 ● 💻 Atualmente estudando cybersecurity
 
@@ -13,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href = "mailto:teusdias2002@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
   <a href="https://www.linkedin.com/in/matheus-dias-lopes-dev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" ></a>
   <a href="https://www.instagram.com/matheusdl.9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="linkedin logo" ></a>
@@ -21,29 +24,8 @@
 
 ###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MxMathe&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MxMathe&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-
-</p>
-
-###
-
 ## Tecnologias que eu uso
 
-###
 
 <div align="left">
   
@@ -65,6 +47,28 @@
 
 <br clear="both">
 
+###
+
+## GITHUB STATS
+
+<div>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MxMathe&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MxMathe&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+</div>
+
 <img src="https://raw.githubusercontent.com/MxMathe/MxMathe/output/snake.svg" alt="Snake animation" />
 
-###
+

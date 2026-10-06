@@ -63,7 +63,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="199" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MxMathe&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 

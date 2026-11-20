@@ -1,12 +1,14 @@
 <h1 align="left">Olá, sou Matheus Dias</h1>
 
 <h4>
-👨‍💻Bacharel em Engenharia da Computação, com foco em desenvolvimento Full, gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções eficientes para problemas.
+👨‍💻Bacharel em Engenharia da Computação, com foco em desenvolvimento Full Stack, gosto de transformar ideias em projetos reais, explorar novas tecnologias e encontrar soluções eficientes para problemas.
 </h4>
 
 ● 🎓 Engenharia da Computação
   
 ● 💻 Atualmente estudando cybersecurity
+
+● 🌱 Melhorando conhecimentos de back-end
 
 ● 🛠️ Procurando trabalhos
 
